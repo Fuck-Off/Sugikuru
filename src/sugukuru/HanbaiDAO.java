@@ -1,18 +1,11 @@
 package sugukuru;
 
-import java.awt.RadialGradientPaint;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
-
-import com.sun.corba.se.spi.orbutil.fsm.Guard.Result;
-
-import sugukuru.*;
-import sun.security.krb5.internal.ccache.CCacheInputStream;
-import sun.security.timestamp.TSRequest;
 
 public class HanbaiDAO {
 	//コンストラクタ
